@@ -1,14 +1,14 @@
-## วิธีลงโปรเจค 
+## About Project
 
 
 
 
-```bash
+
 The HappyMind website is about mental health at Suranaree University of Technology. For this website, in the section for users who are Admins, this project is a collaboration between the Dev team and the Security team according to SecSDLC. The Security team has implemented code for various encryption functions."
-```
 
 
-## วิธีลงโปรเจค 
+
+## Hot to install Project
 
 
 

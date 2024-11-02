@@ -6,18 +6,20 @@
 
 The HappyMind website is about mental health at Suranaree University of Technology. For this website, in the section for users who are Admins, this project is a collaboration between the Dev team and the Security team according to SecSDLC. The Security team has implemented code for various encryption functions."
 
+"This project is a graduation project for the first semester of the academic year 2024."
 
 
-## Hot to install Project
+
+## How to install Project
 
 
 
 
 ```bash
 npm install 
-# ติดตั้ง packet ต่างๆ
+# Install packet 
 npm run dev 
-# รันโปรเจค
+# run project
 ```
 
 
